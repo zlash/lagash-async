@@ -66,4 +66,4 @@ class Async {
 }
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = Async;
-//# sourceMappingURL=async.js.map
+//# sourceMappingURL=index.js.map
