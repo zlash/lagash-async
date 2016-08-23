@@ -1,0 +1,34 @@
+{
+  "name": "lagash-async",
+  "version": "0.1.0",
+  "description": "Lagash simple promise wrapper for async functions.",
+  "main": "js/index.js",
+  "typings": "js/index",
+  "files": [
+    "js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+(GIT URL.git)"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "async",
+    "promise",
+    "wrapper",
+    "lagash"
+  ],
+  "author": "Pablo Zaidenvoren",
+  "license": "MIT",
+  "bugs": {
+    "url": "(GIT ISSUES)"
+  },
+  "homepage": "(GIT URL)#readme",
+  "dependencies": {
+    "@types/node": "^6.0.37"
+  }
+}
