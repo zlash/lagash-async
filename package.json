@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+(GIT URL.git)"
+    "url": "git+https://github.com/zlash/lagash-async.git"
   },
   "keywords": [
     "typescript",
@@ -25,9 +25,9 @@
   "author": "Pablo Zaidenvoren",
   "license": "MIT",
   "bugs": {
-    "url": "(GIT ISSUES)"
+    "url": "https://github.com/zlash/lagash-async/issues"
   },
-  "homepage": "(GIT URL)#readme",
+  "homepage": "https://github.com/zlash/lagash-async#readme",
   "dependencies": {
     "@types/node": "^6.0.37"
   }
